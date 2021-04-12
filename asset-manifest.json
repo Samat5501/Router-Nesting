@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Router-Nesting/static/css/main.899c0605.chunk.css",
+    "main.js": "/Router-Nesting/static/js/main.72500f82.chunk.js",
+    "main.js.map": "/Router-Nesting/static/js/main.72500f82.chunk.js.map",
+    "runtime-main.js": "/Router-Nesting/static/js/runtime-main.c7a93cbb.js",
+    "runtime-main.js.map": "/Router-Nesting/static/js/runtime-main.c7a93cbb.js.map",
+    "static/js/2.0e8585c7.chunk.js": "/Router-Nesting/static/js/2.0e8585c7.chunk.js",
+    "static/js/2.0e8585c7.chunk.js.map": "/Router-Nesting/static/js/2.0e8585c7.chunk.js.map",
+    "index.html": "/Router-Nesting/index.html",
+    "static/css/main.899c0605.chunk.css.map": "/Router-Nesting/static/css/main.899c0605.chunk.css.map",
+    "static/js/2.0e8585c7.chunk.js.LICENSE.txt": "/Router-Nesting/static/js/2.0e8585c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7a93cbb.js",
+    "static/js/2.0e8585c7.chunk.js",
+    "static/css/main.899c0605.chunk.css",
+    "static/js/main.72500f82.chunk.js"
+  ]
+}
